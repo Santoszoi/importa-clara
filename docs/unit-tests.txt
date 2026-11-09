@@ -1,0 +1,15 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> importa-clara@1.0.0 test
+> vitest run
+
+
+ RUN  v3.2.7 /workspace/scratch/c6ec19030f74/importa-clara
+
+ ✓ tests/import.test.ts (21 tests) 8ms
+
+ Test Files  1 passed (1)
+      Tests  21 passed (21)
+   Start at  11:52:26
+   Duration  355ms (transform 52ms, setup 0ms, collect 50ms, tests 8ms, environment 0ms, prepare 71ms)
+
